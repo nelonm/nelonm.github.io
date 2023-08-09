@@ -11,7 +11,7 @@
 h1{
   font-family: 'Abril Fatface', serif;
   color: #222;
-  font-size: 40px;
+  font-size: 42px;
   position: absolute;
    bottom: 75px;
   left: 600px;
@@ -34,7 +34,7 @@ h3{
 }
 .name{
   display: block;
-  font-size: 55px;
+  font-size: 57px;
 }
 p{
   font-family: 'Josefin Sans', sans-serif;
